@@ -1,0 +1,14 @@
+body {
+    font: aktiv-grotesk, sans-serif;
+    margin: 0;
+}
+main {
+    max-width: 1920px;
+    margin: auto;
+}
+header {
+    padding: 20px 0;
+}
+nav {
+    left: 30px;
+}
